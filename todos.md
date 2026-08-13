@@ -1,0 +1,35 @@
+- aeo / geo
+  - Peec AI
+  - Profound
+  - JSON-LD schema
+  - Princeton GEO paper by Aggarwal et al., published at KDD 2024
+  - Onely data, cited by Ziptie.dev, shows schema markup correlates with a 47% top-3 Perplexity citation rate versus 28% without. Erlin data from 2026 found static HTML with schema achieved 94% AI parsing success versus 23% for JavaScript-rendered content.
+  - robots.txt
+    - GPTBot, OAI-SearchBot, PerplexityBot, and Googlebot
+- AI Clicks & Core Web Vitals
+- reddit
+- seo
+  - openseo
+  - semrush
+  - ahrefs
+  - gummysearch
+  - Keyword stuffing
+- market research
+  - Search Engine Journal
+  - SparkToro
+  - Similarweb
+- dev
+  - workflow / no-code
+    - zapier
+    - make
+    - n8n
+    - airtable
+    - nocodb
+  - coding
+    - temporal
+- mcp
+  - openseo
+  - exa
+  - highlight
+  - windmill
+  -

@@ -112,6 +112,7 @@
 
 ## AEO & GEO
 
+- [NotFair Plugin](https://github.com/nowork-studio/notfair-plugin) - Open-source Agent Skills for SEO audits, content optimization, and GEO workflows across traditional search and AI answer engines.
 - [GEO: Generative Engine Optimization](https://arxiv.org/abs/2311.09735) - Foundational research paper introducing optimization for AI answer engines.
 - [Perplexity](https://www.perplexity.ai) - AI answer engine whose sourced responses marketers optimize for.
 - [ChatGPT](https://chatgpt.com) - AI assistant that increasingly shapes how brands approach answer-engine visibility.

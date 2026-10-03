@@ -116,6 +116,7 @@
 - [GEO: Generative Engine Optimization](https://arxiv.org/abs/2311.09735) - Foundational research paper introducing optimization for AI answer engines.
 - [Perplexity](https://www.perplexity.ai) - AI answer engine whose sourced responses marketers optimize for.
 - [ChatGPT](https://chatgpt.com) - AI assistant that increasingly shapes how brands approach answer-engine visibility.
+- [LogNorm](https://lognorm.com) - Growth platform that ranks SEO and GEO fixes and hands them to Claude Code, Codex and Cursor over MCP; tracks answers in ChatGPT, Gemini and Google AI Overviews.
 - [Microsoft Copilot (Bing)](https://www.bing.com) - AI chat search that summarizes web sources in answers.
 
 ## Learning Resources

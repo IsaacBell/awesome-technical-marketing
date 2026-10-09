@@ -61,6 +61,9 @@
 - [Jasper](https://www.jasper.ai) - AI writing assistant for marketing copy and campaigns.
 - [Copy.ai](https://www.copy.ai) - AI copywriting for ads, emails, and landing pages.
 
+- [WarmQuant](https://warmquant.com/) - AI-assisted English drafting with configurable author voice, target readers, and editable saved drafts.
+- [WeWorkBuddy](https://weworkbuddy.com/) - Topic research for AI creators with traceable source links, timestamped observations, and niche assessments.
+
 ## Link Building & Digital PR
 
 - [BuzzStream](https://www.buzzstream.com) - Outreach workflow and relationship management for link building.

@@ -76,6 +76,7 @@
 - [Snov.io](https://snov.io) - Email finder, verifier, and cold outreach automation; free tier includes 50 credits per month.
 - [Lusha](https://www.lusha.com) - B2B contact data and enrichment platform; free tier includes 40 credits per month.
 - [ProxyCurl](https://proxycurl.com) - LinkedIn API for people and company data enrichment; paid tier starts at $10 per month.
+- [looot-warm-leads](https://github.com/loootai/looot-warm-leads) - Open-source (MIT) app that ranks warm B2B leads from LinkedIn engagement, job-change, hiring and funding signals with an explainable ICP score; no free tier, data is paid per call through the looot API (a 45-call run cost $0.079).
 
 ## Analytics & Data
 

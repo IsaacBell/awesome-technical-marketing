@@ -122,6 +122,7 @@
 - [ChatGPT](https://chatgpt.com) - AI assistant that increasingly shapes how brands approach answer-engine visibility.
 - [LogNorm](https://lognorm.com) - Growth platform that ranks SEO and GEO fixes and hands them to Claude Code, Codex and Cursor over MCP; tracks answers in ChatGPT, Gemini and Google AI Overviews.
 - [Microsoft Copilot (Bing)](https://www.bing.com) - AI chat search that summarizes web sources in answers.
+- [OneLence](https://onelence.com) - Marketing analytics with AI search visibility (GEO/AEO): shows AI crawler activity, visitors arriving from AI assistants and, with an add-on, which brands and pages AI answers name and cite, alongside Search Console, paid and affiliate opportunities.
 
 ## Learning Resources
 

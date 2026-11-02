@@ -80,6 +80,7 @@
 - [Lusha](https://www.lusha.com) - B2B contact data and enrichment platform; free tier includes 40 credits per month.
 - [ProxyCurl](https://proxycurl.com) - LinkedIn API for people and company data enrichment; paid tier starts at $10 per month.
 - [looot-warm-leads](https://github.com/loootai/looot-warm-leads) - Open-source (MIT) app that ranks warm B2B leads from LinkedIn engagement, job-change, hiring and funding signals with an explainable ICP score; no free tier, data is paid per call through the looot API (a 45-call run cost $0.079).
+- [OpenSparta](https://opensparta.com/en) - Telegram marketing workspace for teams and agencies, bringing account and proxy operations, relevant-conversation discovery, and campaign workflows together. Its [pricing page](https://opensparta.com/en/pricing) lists the Lead Radar module at $9/month for monitoring selected Telegram communities for buying requests and surfacing ranked opportunities with original-message and match evidence.
 
 ## Analytics & Data
 

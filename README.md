@@ -133,6 +133,7 @@
 - [Google Search Central](https://developers.google.com/search) - Official Google documentation and guidance for SEO.
 - [Moz Blog](https://moz.com/blog) - SEO education and industry research.
 - [Semrush Academy](https://www.semrush.com/academy/) - Free SEO and marketing courses.
+- [Telegram Campaign Economics: A Formula-Ready Worksheet](https://gist.github.com/thinkpad2050/a0391e659d8244142a746ebf3021af33) - A guide and editable CSV for comparing campaign placements using CPM, CTR, cost per qualified conversation, customer acquisition cost, and ROAS. Maintained by OpenSparta Team.
 
 ## Related Awesome Lists
 

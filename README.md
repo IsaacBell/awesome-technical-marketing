@@ -82,6 +82,9 @@
 - [looot-warm-leads](https://github.com/loootai/looot-warm-leads) - Open-source (MIT) app that ranks warm B2B leads from LinkedIn engagement, job-change, hiring and funding signals with an explainable ICP score; no free tier, data is paid per call through the looot API (a 45-call run cost $0.079).
 - [OpenSparta](https://opensparta.com/en) - Telegram marketing workspace for teams and agencies, bringing account and proxy operations, relevant-conversation discovery, and campaign workflows together. Its [pricing page](https://opensparta.com/en/pricing) lists the Lead Radar module at $9/month for monitoring selected Telegram communities for buying requests and surfacing ranked opportunities with original-message and match evidence.
 - [twtData](https://twtdata.com/) - Exports the followers or following of public X (Twitter) accounts, plus tweets, lists and Spaces, to CSV for prospect lists and audience research.
+- [TKMetrics](https://tkmetrics.com/) - Compares public TikTok creators by average views and engagement rate, for influencer outreach lists.
+- [SnapDataHub](https://snapdatahub.com/) - Finds public Snapchat creators by keyword, with subscriber history and Spotlight views.
+- [IGDataHub](https://igdatahub.com/) - Looks up public Instagram accounts, with engagement rate, top posts and comparison on report pages, for influencer outreach lists.
 
 ## Analytics & Data
 

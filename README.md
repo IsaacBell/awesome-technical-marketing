@@ -109,6 +109,7 @@
 ### Data & Enrichment APIs
 
 - [Abstract API](https://www.abstractapi.com) - Suite of data APIs for email, phone, and IP validation.
+- [Datacircle](https://datacircle.dev) - Find the best GTM APIs. We benchmark all the GTM APIs and we put the results on our website.
 
 ## Programmatic SEO
 

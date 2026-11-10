@@ -79,6 +79,7 @@
 - [Snov.io](https://snov.io) - Email finder, verifier, and cold outreach automation; free tier includes 50 credits per month.
 - [Lusha](https://www.lusha.com) - B2B contact data and enrichment platform; free tier includes 40 credits per month.
 - [ProxyCurl](https://proxycurl.com) - LinkedIn API for people and company data enrichment; paid tier starts at $10 per month.
+- [EnrichGrid](https://enrichgrid.com) - LinkedIn profile and company scraper API for lead enrichment; free tier includes 50 credits at signup.
 - [looot-warm-leads](https://github.com/loootai/looot-warm-leads) - Open-source (MIT) app that ranks warm B2B leads from LinkedIn engagement, job-change, hiring and funding signals with an explainable ICP score; no free tier, data is paid per call through the looot API (a 45-call run cost $0.079).
 - [OpenSparta](https://opensparta.com/en) - Telegram marketing workspace for teams and agencies, bringing account and proxy operations, relevant-conversation discovery, and campaign workflows together. Its [pricing page](https://opensparta.com/en/pricing) lists the Lead Radar module at $9/month for monitoring selected Telegram communities for buying requests and surfacing ranked opportunities with original-message and match evidence.
 - [Revenue Scout](https://revenuescout.ai/) - Finds public buying conversations across seven social platforms, shows why each lead fits, and drafts replies for users to review and post. Free includes 2,000 credits once per verified customer, with no card required.

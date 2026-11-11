@@ -78,6 +78,7 @@
 - [Apollo.io](https://www.apollo.io) - All-in-one sales intelligence and engagement platform; free tier includes 100 exports per month.
 - [Snov.io](https://snov.io) - Email finder, verifier, and cold outreach automation; free tier includes 50 credits per month.
 - [Lusha](https://www.lusha.com) - B2B contact data and enrichment platform; free tier includes 40 credits per month.
+- [MailVeri](https://mailveri.com) - Bulk and real-time email verification API; 1,000 free credits on signup, then pay-as-you-go credits that never expire.
 - [ProxyCurl](https://proxycurl.com) - LinkedIn API for people and company data enrichment; paid tier starts at $10 per month.
 - [EnrichGrid](https://enrichgrid.com) - LinkedIn profile and company scraper API for lead enrichment; free tier includes 50 credits at signup.
 - [looot-warm-leads](https://github.com/loootai/looot-warm-leads) - Open-source (MIT) app that ranks warm B2B leads from LinkedIn engagement, job-change, hiring and funding signals with an explainable ICP score; no free tier, data is paid per call through the looot API (a 45-call run cost $0.079).

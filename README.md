@@ -84,6 +84,9 @@
 - [OpenSparta](https://opensparta.com/en) - Telegram marketing workspace for teams and agencies, bringing account and proxy operations, relevant-conversation discovery, and campaign workflows together. Its [pricing page](https://opensparta.com/en/pricing) lists the Lead Radar module at $9/month for monitoring selected Telegram communities for buying requests and surfacing ranked opportunities with original-message and match evidence.
 - [Revenue Scout](https://revenuescout.ai/) - Finds public buying conversations across seven social platforms, shows why each lead fits, and drafts replies for users to review and post. Free includes 2,000 credits once per verified customer, with no card required.
 - [twtData](https://twtdata.com/) - Exports the followers or following of public X (Twitter) accounts, plus tweets, lists and Spaces, to CSV for prospect lists and audience research.
+- [TKMetrics](https://tkmetrics.com/) - Compares public TikTok creators by average views and engagement rate, for influencer outreach lists.
+- [SnapDataHub](https://snapdatahub.com/) - Finds public Snapchat creators by keyword, with subscriber history and Spotlight views.
+- [IGDataHub](https://igdatahub.com/) - Looks up public Instagram accounts, with engagement rate, top posts and comparison on report pages, for influencer outreach lists.
 
 ## Analytics & Data
 

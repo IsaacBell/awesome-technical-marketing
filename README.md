@@ -31,6 +31,7 @@
 - [Semrush](https://www.semrush.com) - All-in-one SEO platform for keyword research, audits, and competitor analysis.
 - [Ahrefs](https://ahrefs.com) - SEO toolset for backlink analysis, keyword research, and site audits.
 - [Moz](https://moz.com) - SEO software with domain authority and link research.
+- [Vaneform](https://vaneform.com/) - Free website traffic checker: look up monthly visitors, traffic trends and visitor sources for any domain.
 
 ### Keyword & Content Optimization
 

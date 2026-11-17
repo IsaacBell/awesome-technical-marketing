@@ -88,7 +88,7 @@
 - [TKMetrics](https://tkmetrics.com/) - Compares public TikTok creators by average views and engagement rate, for influencer outreach lists.
 - [SnapDataHub](https://snapdatahub.com/) - Finds public Snapchat creators by keyword, with subscriber history and Spotlight views.
 - [IGDataHub](https://igdatahub.com/) - Looks up public Instagram accounts, with engagement rate, top posts and comparison on report pages, for influencer outreach lists.
-- [LeadSets GTM Skills](https://github.com/leadsets/leadsets-skills) - Open-source (MIT) agent skills for building prospect lists, enriching and verifying contacts, and researching accounts with Unlimited B2B Contact Data; free 1,000-record tier, paid plans from $29/mo (fair-use rate limits apply).
+- [Leadsets GTM Skills](https://github.com/leadsets/leadsets-skills) - Open-source (MIT) agent skills for building prospect lists, enriching and verifying contacts, and researching accounts with Unlimited B2B Contact Data; free 1,000-record tier, paid plans from $29/mo (fair-use rate limits apply).
 
 ## Analytics & Data
 

@@ -89,6 +89,7 @@
 - [SnapDataHub](https://snapdatahub.com/) - Finds public Snapchat creators by keyword, with subscriber history and Spotlight views.
 - [IGDataHub](https://igdatahub.com/) - Looks up public Instagram accounts, with engagement rate, top posts and comparison on report pages, for influencer outreach lists.
 - [Leadsets GTM Skills](https://github.com/leadsets/leadsets-skills) - Open-source (MIT) agent skills for building prospect lists, enriching and verifying contacts, and researching accounts with Unlimited B2B Contact Data; free 1,000-record tier, paid plans from $29/mo (fair-use rate limits apply).
+- [LinkedIn People Search API](https://apify.com/johnvc/linkedin-people-search-api) - Hosted Apify API that searches public LinkedIn profiles by name, job title, company, school or location and returns them as JSON; paid per result.
 
 ## Analytics & Data
 

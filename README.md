@@ -100,6 +100,9 @@
 - [Google Analytics 4](https://analytics.google.com) - Google's event-based analytics platform for websites and apps.
 - [Matomo](https://matomo.org) - Open-source web analytics platform you can self-host.
 - [Simple Analytics](https://simpleanalytics.com) - Privacy-first analytics with clean dashboards.
+- [Google Ads Transparency Scraper](https://apify.com/publicrecords/google-ads-transparency-scraper) - Google ads a competitor runs, from the Ads Transparency Center, with first and last shown dates (Apify Actor, API + MCP).
+- [Etsy Search Scraper](https://apify.com/publicrecords/etsy-search-scraper) - Etsy search results by keyword: price, rating, reviews, Bestseller badge, ad flag, rank (Apify Actor, API + MCP).
+- [Company Social Profile Finder](https://apify.com/publicrecords/company-social-profile-finder) - Company domain or name to its LinkedIn, X, YouTube, Instagram and Facebook links, with confidence scores (Apify Actor, API + MCP).
 
 ### Session Replay & Behavior
 

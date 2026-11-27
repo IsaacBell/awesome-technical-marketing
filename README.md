@@ -132,20 +132,17 @@
 - [Akii: SEO & AI Search Optimizer](https://github.com/akii-technologies-ltd/akii-seo-ai-search-optimizer) - Free MIT plugin for Claude Code. Audit sites, plan content, and build schema. Use public web signals to estimate AI-search visibility. You can also connect Ahrefs Brand Radar.
 - [NotFair Plugin](https://github.com/nowork-studio/notfair-plugin) - Open-source Agent Skills for SEO audits, content optimization, and GEO workflows across traditional search and AI answer engines.
 - [GEO: Generative Engine Optimization](https://arxiv.org/abs/2311.09735) - Foundational research paper introducing optimization for AI answer engines.
-- [Perplexity](https://www.perplexity.ai) - AI answer engine whose sourced responses marketers optimize for.
-- [ChatGPT](https://chatgpt.com) - AI assistant that increasingly shapes how brands approach answer-engine visibility.
 - [LogNorm](https://lognorm.com) - Growth platform that ranks SEO and GEO fixes and hands them to Claude Code, Codex and Cursor over MCP; tracks answers in ChatGPT, Gemini and Google AI Overviews.
-- [Microsoft Copilot (Bing)](https://www.bing.com) - AI chat search that summarizes web sources in answers.
 - [OneLence](https://onelence.com) - Marketing analytics with AI search visibility (GEO/AEO): shows AI crawler activity, visitors arriving from AI assistants and, with an add-on, which brands and pages AI answers name and cite, alongside Search Console, paid and affiliate opportunities.
 - [Mydentify AI Crawler Access Checker](https://mydentify.com/tools/ai-crawler-access-checker) - Free hosted checker compares documented OpenAI and Anthropic crawler rules with robots.txt, page directives, and HTTP responses; its separate CLI is MIT-licensed ([source](https://github.com/mitdralla/mydentify-ai-crawler-access-checker)).
 - [Google AI Overview API](https://apify.com/johnvc/Google-AI-Overview-API) - Hosted Apify API that returns the Google AI Overview text and its cited sources for a query as JSON.
+- [https://github.com/squirrelscan/squirrelscan](squirrelscan) - Open source tool that audits websites for SEO, performance, security, accessibility, agent experience and other issues.
 
 ## Learning Resources
 
 - [Ahrefs Blog](https://ahrefs.com/blog) - In-depth SEO guides, studies, and industry data.
 - [Search Engine Land](https://searchengineland.com) - News and analysis covering search and digital marketing.
 - [Search Engine Journal](https://www.searchenginejournal.com) - SEO news, guides, and expert commentary.
-- [Google Search Central](https://developers.google.com/search) - Official Google documentation and guidance for SEO.
 - [Moz Blog](https://moz.com/blog) - SEO education and industry research.
 - [Semrush Academy](https://www.semrush.com/academy/) - Free SEO and marketing courses.
 - [Telegram Campaign Economics: A Formula-Ready Worksheet](https://gist.github.com/thinkpad2050/a0391e659d8244142a746ebf3021af33) - A guide and editable CSV for comparing campaign placements using CPM, CTR, cost per qualified conversation, customer acquisition cost, and ROAS. Maintained by OpenSparta Team.

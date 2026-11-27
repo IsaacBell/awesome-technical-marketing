@@ -48,6 +48,7 @@
 - [Bing Webmaster Tools](https://www.bing.com/webmasters) - Indexing and SEO insights for the Bing search engine.
 - [PageSpeed Insights](https://pagespeed.web.dev) - Lab and field data for Core Web Vitals and page speed.
 - [Sitebulb](https://www.sitebulb.com) - Desktop crawler with visual technical SEO audits.
+- [Sitewalk for ChatGPT](https://sitewalkseo.com/) - Technical SEO audit and monitoring in ChatGPT that ranks what to fix first.
 
 ### Structured Data & Schema
 
